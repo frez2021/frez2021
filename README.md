@@ -9,4 +9,4 @@ frez2021/frez2021 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-PAT 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
+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
